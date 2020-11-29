@@ -1,0 +1,3 @@
+SELECT 
+MAX (speed) vel_maxima
+FROM `metal-segment-297111._e5885a5e7ad1c9839acfbc115f0ceb002dc1262b.anon372163bada9dd78aaa19d101c4a734561ed252a6` 
